@@ -1,3 +1,7 @@
+/*
+This is the code written to programme the computation of conductance of a set of vacuum pipes. Once an input of the proper format is given,
+the total consuctance is outputted considering the design and individual conductances.
+*/
 #include <bits/stdc++.h>
 
 using namespace std;
